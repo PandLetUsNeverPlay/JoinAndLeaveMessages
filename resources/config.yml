@@ -1,0 +1,5 @@
+#Use {player} to replace the playername.
+
+join-message: §a{player} joined the network.
+
+leave-message: §c{played} joined the network.
