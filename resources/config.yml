@@ -1,5 +1,8 @@
+#Plugin by PandLetUsNeverPlay
+#YouTube: https://youtube.com/channel/UCiOrt51MGXG9L3I5QM3Bq9Q
+#Discord: PandLetUsNeverPlay#9030
 #Use {player} to replace the playername.
 
 join-message: §a{player} joined the network.
 
-leave-message: §c{played} joined the network.
+leave-message: §c{player} left the network.
